@@ -1,0 +1,276 @@
+2021-01-06 07:25:14 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 07:25:44 INFO  TicketController:42 - User: null null, null has submitted a new ticket.
+2021-01-06 07:28:17 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 07:29:49 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 07:29:58 INFO  TicketController:42 - User: Margy Lopez, m@m.com has submitted a new ticket.
+2021-01-06 07:30:13 INFO  TicketController:127 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-06 07:30:48 INFO  LoginController:102 - User: Margy Lopez, m@m.com has logged out.
+2021-01-06 08:13:24 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 09:01:56 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 09:02:42 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 09:03:15 INFO  TicketController:42 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 09:03:27 INFO  TicketController:42 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 09:03:57 INFO  TicketController:42 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 09:07:02 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 09:07:15 INFO  TicketController:42 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 09:09:53 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 09:10:06 INFO  TicketController:42 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 09:13:49 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 09:14:31 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 09:15:04 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 09:16:00 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 09:26:19 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 09:26:45 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-06 09:26:52 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 09:28:07 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 09:28:33 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 09:29:04 INFO  TicketController:42 - User: Margy Lopez, m@m.com has submitted a new ticket.
+2021-01-06 09:29:50 INFO  TicketController:127 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-06 09:29:55 INFO  LoginController:102 - User: Margy Lopez, m@m.com has logged out.
+2021-01-06 09:30:03 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 09:33:38 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 09:40:45 INFO  LoginController:102 - User: Margy Lopez, m@m.com has logged out.
+2021-01-06 09:41:22 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 09:54:29 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 09:56:24 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 10:02:32 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 10:03:02 INFO  TicketController:42 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 13:18:29 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 13:18:45 INFO  TicketController:44 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 13:21:11 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 13:21:23 INFO  TicketController:44 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 13:33:48 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 13:38:39 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 13:38:48 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 13:43:05 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 13:43:23 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 13:49:00 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 13:49:17 INFO  TicketController:44 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 13:50:27 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 13:50:40 INFO  TicketController:44 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 13:55:42 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 13:56:03 INFO  TicketController:44 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 14:02:22 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 14:02:30 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 14:05:25 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 14:05:35 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 14:06:34 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 14:06:49 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 14:09:30 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 14:09:41 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 14:16:34 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 14:16:44 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 14:17:43 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 14:17:56 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 14:22:58 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-06 14:23:05 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 14:24:19 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 14:27:33 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 14:27:49 INFO  TicketController:46 - User: Margy Lopez, m@m.com has submitted a new ticket.
+2021-01-06 14:28:22 INFO  LoginController:102 - User: Margy Lopez, m@m.com has logged out.
+2021-01-06 14:28:28 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 14:28:38 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 14:33:21 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 14:36:06 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 14:40:58 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 14:42:48 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 14:44:59 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 14:45:39 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-06 14:45:46 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 14:51:10 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 14:54:43 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 14:57:48 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 15:00:57 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 15:03:29 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 15:03:37 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-06 15:03:39 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-06 16:18:10 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 16:18:57 INFO  LoginController:102 - User: Margy Lopez, m@m.com has logged out.
+2021-01-06 16:19:05 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 16:19:20 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 16:19:27 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-06 16:19:36 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 16:22:35 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 16:26:29 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 16:29:37 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 16:42:49 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 16:43:00 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-06 16:43:07 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 16:47:38 INFO  LoginController:102 - User: Margy Lopez, m@m.com has logged out.
+2021-01-06 16:47:44 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 17:00:06 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 17:00:33 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 17:33:59 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 17:35:07 INFO  LoginController:102 - User: Margy Lopez, m@m.com has logged out.
+2021-01-06 17:37:25 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 17:57:32 INFO  LoginController:102 - User: Margy Lopez, m@m.com has logged out.
+2021-01-06 18:00:41 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 18:01:06 INFO  TicketController:46 - User: Margy Lopez, m@m.com has submitted a new ticket.
+2021-01-06 18:05:13 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 18:06:01 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 18:06:44 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 18:16:41 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 18:18:27 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 18:38:43 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:17:46 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:22:50 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:24:02 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:25:09 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:25:30 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:25:37 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-06 19:26:09 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:26:37 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:27:12 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:28:12 INFO  LoginController:102 - User: null null, null has logged out.
+2021-01-06 19:28:22 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:30:54 INFO  LoginController:102 - User: null null, null has logged out.
+2021-01-06 19:31:03 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:33:35 INFO  LoginController:102 - User: null null, null has logged out.
+2021-01-06 19:33:41 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 19:33:59 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-06 19:36:22 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 19:45:27 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 19:45:48 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-06 19:51:28 INFO  LoginController:102 - User: Margy Lopez, m@m.com has logged out.
+2021-01-06 19:53:50 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 19:56:52 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 20:01:02 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-06 20:01:21 INFO  LoginController:102 - User: Margy Lopez, m@m.com has logged out.
+2021-01-06 20:01:27 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 20:02:42 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 20:03:21 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 20:03:43 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 20:06:12 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 20:07:31 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 20:08:16 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 20:09:46 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 20:30:29 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 20:31:59 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 20:32:25 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-06 20:33:43 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 20:49:50 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:09:07 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:10:22 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:14:13 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:19:00 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:20:35 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:23:38 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:24:24 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:25:08 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:25:39 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:26:22 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:28:03 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:34:32 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:35:28 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:39:05 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:41:08 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:42:38 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:45:21 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:50:21 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 21:53:49 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:00:47 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:02:46 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:06:19 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:07:34 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:10:15 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:11:04 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:11:54 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:15:08 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:16:06 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:18:45 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:19:34 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-06 22:19:47 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:13:31 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:21:40 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:22:19 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:26:44 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:27:11 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:27:32 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:34:55 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:35:54 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:41:22 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:41:52 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:42:19 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:46:45 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:48:53 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:50:28 INFO  LoginController:102 - User: null null, null has logged out.
+2021-01-07 07:51:16 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:54:32 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 07:59:20 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:03:11 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:05:24 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:10:04 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:11:05 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:12:29 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:14:32 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:22:48 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:22:56 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-07 08:23:04 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:23:08 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-07 08:23:15 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 08:24:44 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 08:25:48 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 08:26:23 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-07 08:26:25 INFO  TicketController:149 - User: Margy Lopez, m@m.com has rejected a ticket.
+2021-01-07 08:26:32 INFO  TicketController:149 - User: Margy Lopez, m@m.com has rejected a ticket.
+2021-01-07 08:26:34 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-07 08:32:20 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 08:35:39 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 08:37:52 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 08:42:29 INFO  LoginController:102 - User: null null, null has logged out.
+2021-01-07 08:42:41 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 08:43:43 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 08:45:27 INFO  LoginController:102 - User: Margy Lopez, m@m.com has logged out.
+2021-01-07 08:45:34 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:48:55 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 08:49:25 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:51:31 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:52:38 INFO  LoginController:102 - User: null null, null has logged out.
+2021-01-07 08:52:50 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 08:53:20 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-07 08:55:37 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 08:57:15 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 09:01:24 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 09:01:43 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-07 09:01:56 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-07 09:02:16 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-07 09:02:55 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-07 09:03:14 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 09:04:50 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-07 09:04:54 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-07 09:05:03 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-07 09:20:16 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 09:20:32 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-07 09:20:42 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-07 09:20:51 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-07 09:20:56 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-07 09:21:03 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 09:21:17 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-07 09:25:02 INFO  LoginController:68 - User: George Yoo, g@g.com has logged in.
+2021-01-07 09:25:13 INFO  TicketController:46 - User: George Yoo, g@g.com has submitted a new ticket.
+2021-01-07 09:25:29 INFO  LoginController:102 - User: George Yoo, g@g.com has logged out.
+2021-01-07 09:25:38 INFO  LoginController:53 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 09:25:44 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-07 09:25:48 INFO  TicketController:149 - User: Margy Lopez, m@m.com has rejected a ticket.
+2021-01-07 09:32:05 INFO  LoginController:88 - User: null null, null has logged out.
+2021-01-07 09:44:57 INFO  LoginController:63 - User: George Yoo, g@g.com has logged in.
+2021-01-07 09:45:01 INFO  LoginController:88 - User: George Yoo, g@g.com has logged out.
+2021-01-07 09:45:38 INFO  LoginController:63 - User: dyla dylan, d@d.com has logged in.
+2021-01-07 09:45:53 INFO  TicketController:46 - User: dyla dylan, d@d.com has submitted a new ticket.
+2021-01-07 09:47:26 INFO  TicketController:46 - User: dyla dylan, d@d.com has submitted a new ticket.
+2021-01-07 09:48:21 INFO  LoginController:88 - User: dyla dylan, d@d.com has logged out.
+2021-01-07 09:48:27 INFO  LoginController:48 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 09:49:22 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-07 09:49:45 INFO  LoginController:88 - User: Margy Lopez, m@m.com has logged out.
+2021-01-07 09:49:53 INFO  LoginController:63 - User: dyla dylan, d@d.com has logged in.
+2021-01-07 09:50:37 INFO  LoginController:88 - User: dyla dylan, d@d.com has logged out.
+2021-01-07 09:51:13 INFO  LoginController:48 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 09:52:35 INFO  LoginController:48 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 09:54:07 INFO  LoginController:48 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 09:54:57 INFO  LoginController:88 - User: Margy Lopez, m@m.com has logged out.
+2021-01-07 10:24:37 INFO  LoginController:63 - User: George Yoo, g@g.com has logged in.
+2021-01-07 13:37:26 INFO  LoginController:64 - User: George Yoo, g@g.com has logged in.
+2021-01-07 13:44:35 INFO  LoginController:96 - User: George Yoo, g@g.com has logged out.
+2021-01-07 13:44:42 INFO  LoginController:49 - User: Margy Lopez, m@m.com has logged in.
+2021-01-07 13:44:52 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
+2021-01-07 13:45:24 INFO  LoginController:96 - User: Margy Lopez, m@m.com has logged out.
