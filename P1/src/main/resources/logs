@@ -274,3 +274,8 @@
 2021-01-07 13:44:42 INFO  LoginController:49 - User: Margy Lopez, m@m.com has logged in.
 2021-01-07 13:44:52 INFO  TicketController:131 - User: Margy Lopez, m@m.com has approved a ticket.
 2021-01-07 13:45:24 INFO  LoginController:96 - User: Margy Lopez, m@m.com has logged out.
+2021-01-08 09:59:41 INFO  LoginController:64 - User: George Yoo, g@g.com has logged in.
+2021-01-08 10:13:09 INFO  LoginController:96 - User: George Yoo, g@g.com has logged out.
+2021-01-08 10:13:34 INFO  LoginController:64 - User: George Yoo, g@g.com has logged in.
+2021-01-08 10:14:49 INFO  LoginController:96 - User: George Yoo, g@g.com has logged out.
+2021-01-10 09:48:03 INFO  LoginController:49 - User: Margy Lopez, m@m.com has logged in.

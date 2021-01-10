@@ -33,13 +33,14 @@ public class Service {
 	}
 
 	// Register User
-	public void registerUser(Employee emp) {
+	public boolean registerUser(Employee emp) {
 		System.out.println("reached Service");
 		if (eDao.insertEmployee(emp)) {
-//			eDao.insertEmployee(emp);
 			System.out.println("Successfully Registered!");
+			return true;
 		} else {
 			System.out.println("User with that email already exists!");
+			return false;
 		}
 	}
 
@@ -62,32 +63,38 @@ public class Service {
 	}
 
 	// Post new ticket
-	public void postTicket(Ticket t) {
+	public boolean postTicket(Ticket t) {
 		System.out.println("Reached service");
 		if (tDao.insertTicket(t)) {
 			System.out.println("Service: Ticket Successfully Created: " + t);
+			return true;
 		} else {
 			System.out.println("Service: Ticket Creation Failed");
+			return false;
 		}
 	}
 
-	// Post new ticket
-	public void putTicketApprove(int id) {
+	// Approve Ticket
+	public boolean putTicketApprove(int id) {
 		System.out.println("Reached service");
 		if (tDao.putTicketApprove(id)) {
 			System.out.println("Ticket Successfully updated");
+			return true;
 		} else {
 			System.out.println("Ticket update Failed");
+			return false;
 		}
 	}
 
-	// Post new ticket
-	public void putTicketReject(int id) {
+	// Reject Ticket
+	public boolean putTicketReject(int id) {
 		System.out.println("Reached service");
 		if (tDao.putTicketReject(id)) {
 			System.out.println("Ticket Successfully updated");
+			return true;
 		} else {
 			System.out.println("Ticket update Failed");
+			return false;
 		}
 	}
 }

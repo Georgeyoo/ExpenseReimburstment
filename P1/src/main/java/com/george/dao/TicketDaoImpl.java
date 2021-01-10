@@ -13,17 +13,10 @@ import com.george.util.AWSConnection;
 public class TicketDaoImpl implements TicketDao {
 
 	@Override
-	public List<Ticket> selectAllTickets() {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
 	public List<Ticket> selectTicketById(int id) {
 		List<Ticket> tick = new ArrayList<>();
 
 		String sql = "select * from tickets left join departments on tickets.d_id = departments.d_id left join classifications on tickets.c_id = classifications.c_id left join employees on tickets.e_id = employees.e_id where tickets.e_id = ?";
-//		String sql = "SELECT * FROM tickets WHERE e_id = ?";
 
 		try (Connection conn = AWSConnection.getConnection()) {
 
@@ -73,12 +66,6 @@ public class TicketDaoImpl implements TicketDao {
 	}
 
 	@Override
-	public Ticket selectAllTicketsByNameAndStatus(Ticket t) {
-		// TODO Auto-generated method stub
-		return null;
-	}
-
-	@Override
 	public List<Ticket> selectAllTicketsNotByCurrentFM(int id) {
 		List<Ticket> tick = new ArrayList<>();
 
@@ -104,12 +91,6 @@ public class TicketDaoImpl implements TicketDao {
 		}
 
 		return tick;
-	}
-
-	@Override
-	public Ticket selectAllTicketsByStatusNotByCurrentFM(String name, boolean status) {
-		// TODO Auto-generated method stub
-		return null;
 	}
 
 	@Override

@@ -4,18 +4,11 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
-import java.util.List;
 
 import com.george.model.Employee;
 import com.george.util.AWSConnection;
 
 public class EmployeeDaoImpl implements EmployeeDao {
-
-	@Override
-	public List<Employee> selectAllEmployees() {
-		// TODO Auto-generated method stub
-		return null;
-	}
 
 	@Override
 	public Employee selectEmployeeByEmail(String email) {
@@ -101,16 +94,16 @@ public class EmployeeDaoImpl implements EmployeeDao {
 		}
 	}
 
-	@Override
-	public boolean updateProfilePicture(Employee e, String img) {
-		// TODO Auto-generated method stub
-		return false;
-	}
-
-	@Override
-	public boolean deleteUser(Employee e) {
-		// TODO Auto-generated method stub
-		return false;
-	}
+//	@Override
+//	public boolean updateProfilePicture(Employee e, String img) {
+//		// TODO Auto-generated method stub
+//		return false;
+//	}
+//
+//	@Override
+//	public boolean deleteUser(Employee e) {
+//		// TODO Auto-generated method stub
+//		return false;
+//	}
 
 }
