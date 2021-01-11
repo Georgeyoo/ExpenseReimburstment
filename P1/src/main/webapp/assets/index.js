@@ -124,7 +124,7 @@ getAllTickets();
 
 
 document.querySelector("#ticket-submit").addEventListener("click", function (e) {
-    // e.preventDefault();
+    e.preventDefault();
     console.log('button clicked!');
 
     let title = document.querySelector("#ticket-title").value;
@@ -132,8 +132,15 @@ document.querySelector("#ticket-submit").addEventListener("click", function (e) 
     let eId = 0;
     let dId = document.querySelector("#departmentId").value;
     let cId = document.querySelector("#categoryId").value;
-    let img = document.querySelector("#ticket-img").value;
+    let img = document.querySelector("#ticket-img").files;
     let amount = document.querySelector("#ticket-amount").value;
+
+    // let ticketForm = document.querySelector("#ticket-form");
+    // let form = new FormData(document.querySelector("#ticket-form"));
+
+    // for (var p of form.entries()) {
+    //     console.log(p[0] + ', ' + p[1]);
+    // }
 
     let data = {
         "userId": eId,
@@ -149,6 +156,8 @@ document.querySelector("#ticket-submit").addEventListener("click", function (e) 
         "amount": amount
     }
 
+    // console.log(imgFinal);
+
     fetch('http://localhost:8080/P1/api/ticket', {
         method: "POST",
         body: JSON.stringify(data)
@@ -158,6 +167,14 @@ document.querySelector("#ticket-submit").addEventListener("click", function (e) 
             getAllTickets();
         })
 
+    // fetch('http://localhost:8080/P1/api/ticket', {
+    //     method: "POST",
+    //     body: form
+    // })
+    //     .then(response => {
+    //         console.log(response.status);
+    //         getAllTickets();
+    //     })
 })
 
 $("#personal-sort-by-date").on("click", function (e) {

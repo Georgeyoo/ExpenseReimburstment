@@ -48,6 +48,11 @@ public class Ticket {
 		super();
 	}
 
+	public Ticket(Object attribute, int departmentId2, int categoryId2, String name2, String desc2, byte image2,
+			boolean isChecked2, boolean isRejected2, double amount2) {
+		// TODO Auto-generated constructor stub
+	}
+
 	public int getT_id() {
 		return t_id;
 	}

@@ -153,7 +153,12 @@ h3 .uk-card-title {
 
 
 input[name=email]:valid { border-color: green; }
-
-
 input[name=email]:invalid { border-color: red; }
+input[name=password]:valid { border-color: green; }
+input[name=password]:invalid { border-color: red; }
+input[name=firstName]:valid { border-color: green; }
+input[name=firstName]:invalid { border-color: red; }
+input[name=lastName]:valid { border-color: green; }
+input[name=lastName]:invalid { border-color: red; }
+
 

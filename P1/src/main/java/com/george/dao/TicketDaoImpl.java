@@ -102,6 +102,8 @@ public class TicketDaoImpl implements TicketDao {
 
 		try (Connection conn = AWSConnection.getConnection()) {
 
+			// CallableStatement
+
 			PreparedStatement ps = conn.prepareStatement(sql);
 			ps.setInt(1, t.getUserId());
 			ps.setInt(2, t.getDepartmentId());
