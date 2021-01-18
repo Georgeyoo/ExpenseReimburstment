@@ -1,0 +1,164 @@
+body {
+    background-image: linear-gradient(#24C6DC, lightgreen, #FFEDBC);
+    background-color: #FFEDBC;
+    height: 300vh;
+    color: black;
+}
+
+#client-body {
+    height: 100vh;
+    background-color: white;
+    background-image: none;
+}
+
+.nav-container {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+
+
+.uk-navbar-nav>li>a {
+    color: black;
+}
+
+#logo {
+    color: black;
+    font-size: large;
+}
+
+#page-one {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.page-one-cards {
+    margin-bottom: 10%;
+}
+
+#page-two {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#page-three {
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#footer {
+    width: 100%;
+    position: absolute;
+    bottom: -200vh;
+    height: 10vh;
+    font-size: .7em;
+    color: #1b1b1b;
+}
+
+#footer-text {
+    padding-top: 15%;
+}
+
+#client-footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0vh;
+}
+
+#footer-nav {
+    background-color: #FFEDBC;
+}
+
+.uk-card-footer {
+    display: flex;
+    justify-content: center;
+}
+
+.uk-card {
+    background-color: white;
+    margin: auto;
+    box-shadow: 2px 2px 3px 1px gray;
+    font-size: 1em;
+    text-align: center;
+}
+
+h3 .uk-card-title {
+    color: white;
+}
+
+.register-now {
+    width: 50%;
+    text-align: center;
+}
+
+.input-box {
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.uk-button-primary {
+    margin-top: 4%;
+    width: 13em;
+    margin-right: 2%;
+}
+
+.uk-button-danger {
+    margin-top: 4%;
+    width: 13em;
+    margin-left: 2%;
+}
+
+.modal-container {
+    align-content: center;
+}
+
+.modal-form-container p {
+    text-align: center;
+}
+
+.uk-modal-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* background-color :#ddffaa; */
+    border-radius: 3%;
+}
+
+.uk-modal-title {
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.modal-actions {
+    display: flex;
+    justify-content: center;
+}
+
+.logout-confirm {
+    text-align: center;
+    font-size: 1.25em;
+    margin-bottom: 7%;
+}
+
+.uk-modal-dialog {
+    width: 28%;
+    min-height: 40%;
+}
+
+
+input[name=email]:valid { border-color: green; }
+input[name=email]:invalid { border-color: red; }
+input[name=password]:valid { border-color: green; }
+input[name=password]:invalid { border-color: red; }
+input[name=firstName]:valid { border-color: green; }
+input[name=firstName]:invalid { border-color: red; }
+input[name=lastName]:valid { border-color: green; }
+input[name=lastName]:invalid { border-color: red; }
+
+

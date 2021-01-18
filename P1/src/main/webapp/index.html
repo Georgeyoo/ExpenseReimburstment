@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en" id="top">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exspens.ly</title>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/P1/assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/P1/assets/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/P1/assets/favicon-16x16.png">
+    <link rel="manifest" href="/P1/assets/site.webmanifest">
+
+    <!-- Icons  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <!-- UIkit CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.6.5/dist/css/uikit.min.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/P1/assets/style.css">
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <div class="nav-container">
+
+        <nav class="uk-navbar-container uk-navbar-transparent" uk-sticky uk-navbar>
+            <div class="uk-navbar-left">
+                <ul class="uk-navbar-nav">
+                    <li class="uk-active nav-text"><a href="#" id="logo">Exspens.ly</a></li>
+                </ul>
+            </div>
+            <div class="uk-navbar-right">
+                <ul class="uk-navbar-nav">
+                    <li><a href="#" uk-toggle="target: #login-modal" class="nav-text">Login</a></li>
+                    <li>
+                        <a href="#">About</a>
+                        <div class="uk-navbar-dropdown">
+                            <ul class="uk-nav uk-navbar-dropdown-nav">
+                                <li class="uk-active"><a href="#">Exspens.ly</a></li>
+                                <li><a href="#" class="uk-active">Who we are</a></li>
+                                <li><a href="#">What guides us</a></li>
+                                <li><a href="#">Partnering locally</a></li>
+                                <li><a href="#">Investor Relations</a></li>
+                                <li><a href="#">Careers</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <hr>
+        </nav>
+    </div>
+
+    <!-- Main container -->
+    <div class="uk-container main-container">
+        <div class="uk-position-relative">
+            <div class="uk-container" id="page-one">
+                <div class="uk-child-width-1-3@m page-one-cards" uk-grid
+                    uk-scrollspy="cls: uk-animation-fade; target: .uk-card; delay: 600; repeat: true">
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <h3 class="uk-card-title">Easy <span class="material-icons">
+                                    done_all
+                                </span></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <h3 class="uk-card-title test">Fast <span class="material-icons">
+                                    directions_run
+                                </span></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <h3 class="uk-card-title">Secure <span class="material-icons">
+                                    lock
+                                </span></h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="uk-card-footer">
+                    <a href="#page-two" uk-scroll class="uk-button uk-button-text uk-page-nav">Read More</a>
+                </div>
+            </div>
+
+            <div class="uk-container" id="page-two">
+                <h3>Just Three Easy Steps To Get Started:</h3>
+                <div class="uk-child-width-1-3@m" uk-grid
+                    uk-scrollspy="cls: uk-animation-slide-bottom; target: .uk-card; delay: 500; repeat: true">
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <span class="material-icons">
+                                looks_one
+                            </span>
+                            <h3 class="uk-card-title">Create an Account</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body" uk-scrollspy-class="uk-animation-slide-top">
+                            <span class="material-icons">
+                                looks_two
+                            </span>
+                            <h3 class="uk-card-title">Upload Your Receipts</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="uk-card uk-card-default uk-card-body">
+                            <span class="material-icons">
+                                looks_3
+                            </span>
+                            <h3 class="uk-card-title">Get Paid Back</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="uk-card-footer">
+                    <a href="#page-three" uk-scroll class="uk-button uk-button-text uk-page-nav">What Next?</a>
+                </div>
+            </div>
+
+            <div class="uk-container" id="page-three">
+                <div class="uk-container register-now">
+
+                    <div class="uk-child-width-1-2@m uk-grid-match" uk-grid>
+                        <div class="uk-card uk-card-default uk-card-body"
+                            uk-scrollspy="cls: uk-animation-slide-left; repeat: true">
+                            <h3>Sign up Today!</h3>
+                            <form action="">
+                                <div class="register-input">
+                                    <input required type="text" name="login-email" class="uk-input input-box"
+                                        placeholder="Email">
+                                </div>
+
+                                <div class="register-input">
+                                    <input required type="text" name="login-name" class="uk-input input-box"
+                                        placeholder="First Name">
+                                </div>
+
+                                <div class="register-input">
+                                    <input required type="text" name="login-name" class="uk-input input-box"
+                                        placeholder="Last Name">
+                                </div>
+
+                                <div class="register-input">
+                                    <input required type="password" name="login-pass" class="uk-input input-box"
+                                        placeholder="Password">
+
+                                </div>
+                                <button class="uk-button uk-button-primary" type="button">Submit</button>
+                            </form>
+                            <div class="uk-card-footer">
+                                <a href="#top" uk-scroll class="uk-button uk-button-text nav-button">Back to Top</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <div id="footer">
+        <nav class="uk-navbar-container" uk-navbar id="footer-nav">
+            <div class="uk-navbar-center">
+                <p id="footer-text">© 2020 George Yoo. All rights reserved.</p>
+            </div>
+        </nav>
+    </div>
+
+
+    <!-- Authentication Modal / Login-->
+    <div id="login-modal" uk-modal>
+        <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+            <div class="modal-form-container">
+                <h2 class="uk-modal-title">Log In</h2>
+                <form action="http://localhost:8080/P1/api/login" method="POST">
+                    <div class="login-input">
+                        <input required type="text" name="email" class="uk-input input-box" placeholder="Email"
+                            pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$">
+                    </div>
+
+                    <div class="login-input">
+                        <input required type="password" name="password" class="uk-input input-box"
+                            Placeholder="Password">
+
+                    </div>
+
+                    <button class="uk-button uk-button-primary">Login</button>
+                    <button class="uk-modal-close uk-button uk-button-danger" type="button">Cancel</button>
+                </form>
+
+                <p>Don't have an account?</p>
+                <div class="uk-container modal-actions">
+                    <div uk-switcher="animation: uk-animation-fade; toggle: > *">
+                        <button uk-toggle="target: #register-modal" class="uk-button uk-button-secondary"
+                            type="button">Create a
+                            new
+                            Account</button>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Register Modal-->
+    <div id="register-modal" uk-modal>
+        <div class="uk-modal-dialog uk-modal-body uk-margin-auto-vertical">
+            <div class="modal-form-container">
+                <h2 class="uk-modal-title">Create a New Account</h2>
+                <form method='POST' action="http://localhost:8080/P1/api/employee"
+                    enctype="application/x-www-form-urlencoded">
+                    <div class="register-input">
+                        <input required type="text" name="email" class="uk-input input-box reg-input-email valid"
+                            pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$"
+                            placeholder="Email"
+                            title="The domain portion of the email address is invalid (the portion after the @).">
+                    </div>
+
+                    <div class="register-input">
+                        <input required type="text" name="firstName" class="uk-input input-box reg-input-fname valid"
+                            placeholder="First Name">
+                    </div>
+
+                    <div class="register-input">
+                        <input required type="text" name="lastName" class="uk-input input-box reg-input-lname valid"
+                            placeholder="Last Name">
+                    </div>
+
+                    <div class="register-input">
+                        <input required type="password" name="password" class="uk-input input-box reg-input-pass"
+                            placeholder="Password">
+
+                    </div>
+                    <input type="submit" class="uk-button uk-button-primary">
+                    <button class="uk-modal-close uk-button uk-button-danger" type="button">Cancel</button>
+                </form>
+                <div class="uk-container modal-actions">
+                </div>
+
+                <p>Already have an account?</p>
+                <div class="uk-container modal-actions">
+                    <div uk-switcher="animation: uk-animation-fade; toggle: > *">
+                        <button uk-toggle="target: #login-modal" class="uk-button uk-button-secondary"
+                            type="button">Back to Login</button>
+                    </div>
+
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- UIkit JS -->
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.6.5/dist/js/uikit.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.6.5/dist/js/uikit-icons.min.js"></script>
+    <!--  <script type="text/javascript" src="index.js"></script> -->
+</body>
+
+</html>
