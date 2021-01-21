@@ -2,7 +2,7 @@
 
 ## Project Description
 
-A Web Application built using Java Servelets, Apache Tomcat, and Bootstrap 4 which allows for the handling of expense reimbursements.
+A Web Application built using Java Servelets, Apache Tomcat, and UIKit which allows for the handling of expense reimbursements.
 
 ## Technologies Used
 
