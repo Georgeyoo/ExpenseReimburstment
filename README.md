@@ -63,6 +63,17 @@ Now that a ticket has been submitted, a Financial Manager will need to either ap
 
 ![sort-ticket](https://i.ibb.co/Qb5t8sH/sort.png)
 
+You can log in as a financial manager by using the following credentials:
+Email: m@m.com
+Password: test123
+
+Upon logging in as a manager, the view will look similar to normal users with the exception of a few buttons.
+Managers, just like normal users, can create new requests, see historical requests, and sort through historical requests.
+
+However, managers can also approve/reject pending requests and search for all requests by a specific user by their email.
+
+![manager-view](https://i.ibb.co/3FvxLdc/manager.png)
+
 ## License
 
 This project uses the following license: [<license_name>](<link>).
