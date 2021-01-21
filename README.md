@@ -1,44 +1,50 @@
-# PROJECT NAME
+# Expense Reimbursements Application
 
 ## Project Description
 
-Here goes your awesome project description!
+A Web Application built using Java Servelets, Apache Tomcat, and Bootstrap 4 which allows for the handling of expense reimbursements.
 
 ## Technologies Used
 
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+- Apache Tomcat 8.5.60
+- UIKit
+- Jackson Core (Object Mapper)
+- Hibernate 4.3.11.Final
+- Java Servlet API 3.1.0
+- Log4j API 2.13.0
+- PostgreSQL 42.2.18
+- JUnit
+- Mockito 1.8.4
+
 
 ## Features
 
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+- After registering or logging in, users can submit tickets specifying an amount, category, and department.
+- Financial Managers can approve/deny a reimbursement request. To avoid fraudulant behavior Financial Managers are unable to approve/deny their own reimburstment requests. 
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Complete implementation of receipt (PDF/jpg/png) upload.
+* Addition of email confirmation upon new user registration.
 
 ## Getting Started
    
-(include git clone command)
-(include all environment setup steps)
+In order to see this project in action, you will need a few things:
 
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
+1) Be sure to have Apache Tomcat 8.5.60 installed.
+2) Be sure to have the Java 8 runtime environment installed.
 
-- All the `code` required to get started
-- Images of what it should look like
+If both of the pre-requisites above are met, go ahead and clone this repo by using the below command:
+
+        git clone https://github.com/cassie365/expense-reimbursements.git
+
+Once cloned, copy the .war file located within the /target directory and paste it into your tomcat webapps folder.
+
+Once the .war has been exploded, by default you will be able to view the application at http://localhost:8080/ers
 
 ## Usage
 
 > Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
-
-## Contributors
-
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
 
 ## License
 
