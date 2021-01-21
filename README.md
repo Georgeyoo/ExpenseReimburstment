@@ -57,6 +57,7 @@ After registering we can proceed to logging in.
 ![login](https://i.ibb.co/vB72PXJ/login.png)
 
 Upon logging in, users will be able to see historical reimburstment requests, sort requests, and/or create a new request.
+
 ![create-ticket](https://i.ibb.co/jZ4GwMk/client.png)
 
 Now that a ticket has been submitted, a Financial Manager will need to either approve/reject it. In the mean time, you'll notice that the reimburstment request now shows at the bottom. If reimburstment request history becomes too hectic, the you can always sort reimburstments to quickly find requests.
@@ -76,5 +77,5 @@ However, managers can also approve/reject pending requests and search for all re
 
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+This project uses the following license: MIT
 
