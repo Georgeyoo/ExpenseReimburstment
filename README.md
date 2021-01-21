@@ -50,11 +50,11 @@ Welcome to Expens.ly!
 
 To start, register a new user either at the bottom of the landing page (Call to Action) or by clicking "Login" then "Create a new account".
 
-![register](diagram.png)
+![register](https://i.ibb.co/nggYQjH/register.png)
 
 After registering we can proceed to logging in.
 
-![login](diagram.png)
+![login](https://i.ibb.co/vB72PXJ/login.png)
 
 Upon logging in, users will be able to see historical reimburstment requests, sort requests, and/or create a new request.
 ![create-ticket](diagram.png)
