@@ -45,9 +45,8 @@ Once the .war has been exploded, by default you will be able to view the applica
 ## Usage
 
 Welcome to Expens.ly!
-![home](https://i.ibb.co/mywKjHh/exspensly.png)
 
-<a href="https://ibb.co/LgWyFC9"><img src="https://i.ibb.co/mywKjHh/exspensly.png" alt="exspensly" border="0" /></a>
+![home](https://i.ibb.co/mywKjHh/exspensly.png)
 
 To start, register a new user either at the bottom of the landing page (Call to Action) or by clicking "Login" then "Create a new account".
 ![register](diagram.png)
