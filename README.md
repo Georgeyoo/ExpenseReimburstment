@@ -36,15 +36,27 @@ In order to see this project in action, you will need a few things:
 
 If both of the pre-requisites above are met, go ahead and clone this repo by using the below command:
 
-        git clone https://github.com/cassie365/expense-reimbursements.git
+        git clone https://github.com/Georgeyoo/ExpenseReimburstment.git
 
 Once cloned, copy the .war file located within the /target directory and paste it into your tomcat webapps folder.
 
-Once the .war has been exploded, by default you will be able to view the application at http://localhost:8080/ers
+Once the .war has been exploded, by default you will be able to view the application at http://localhost:8080/p1/api/landing
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+Welcome to Expens.ly!
+![home](https://ibb.co/LgWyFC9)
+
+To start, register a new user either at the bottom of the landing page (Call to Action) or by clicking "Login" then "Create a new account".
+![register](diagram.png)
+
+After registering we can proceed to logging in.
+![login](diagram.png)
+
+![create-ticket](diagram.png)
+
+Now that a ticket has been submitted, a Financial Manager will need to either approve/reject it. In the mean time, you'll notice that the reimburstment request now shows at the bottom. If reimburstment request history becomes too hectic, the you can always sort reimburstments to quickly find requests.
+![sort-ticket](diagram.png)
 
 ## License
 
