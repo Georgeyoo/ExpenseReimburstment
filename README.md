@@ -40,7 +40,7 @@ If both of the pre-requisites above are met, go ahead and clone this repo by usi
 
 Once cloned, copy the .war file located within the /target directory and paste it into your tomcat webapps folder.
 
-Once the .war has been exploded, by default you will be able to view the application at http://localhost:8080/p1/api/landing
+Once the .war is run, by default you will be able to view the application at http://localhost:8080/p1/api/landing
 
 ## Usage
 
